@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm jwy-hm 👋
 
-<!--
-**jwy-hm/jwy-hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergrad student with a strong passion for **Bioinformatics** and **Full-stack Development**. I love combining computer science and data analysis with modern agriculture and life sciences.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Full-stack development for the **BrassicaIBD** breeding platform and **iMAP** (a qPCR primer design platform for agricultural pathogenic microorganisms).
+- 🌱 **I’m currently learning:** Single-cell RNA sequencing (scRNA-seq), WGCNA, and efficient deployment using **Docker**.
+- 🎓 **Current Status:** Actively applying for **Postgraduate Recommendation (Graduate School)** in Bioinformatics / Computational Biology / Computer Science.
+- 💬 **Ask me about:** RNA-seq, Vue 3, Django, and R visualization.
+- 📫 **How to reach me:** [gmzhaoyubo@gmail.com](mailto:gmzhaoyubo@gmail.com) | [1077330608@qq.com](mailto:1077330608@qq.com)
+- 📄 **My Resume:** Feel free to check out my [Online Resume](https://resume.safehome.eu.org/p/jwyshm/).
+- ⚡ **Fun fact:** When I'm not in the Linux terminal dealing with massive genomic data, you can probably find me rushing B in **CS (Counter-Strike)** 🎮🔫😎.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Tech Stack
+
+**🧬 Bioinformatics & Data Analysis**
+
+- **Pipelines:** RNA-seq, scRNA-seq, WGCNA
+- **Languages/Tools:** R, Python, Linux Shell
+
+### 📊 GitHub Stats
+
+⭐️ *From **jwy-hm** with love*
