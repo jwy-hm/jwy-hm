@@ -1,4 +1,4 @@
-## Hi there, I'm jwy-hm 👋
+## Hi there, I'm Ebo Zhao 👋
 
 I am an undergrad student with a strong passion for **Bioinformatics** and **Full-stack Development**. I love combining computer science and data analysis with modern agriculture and life sciences.
 
@@ -19,4 +19,4 @@ I am an undergrad student with a strong passion for **Bioinformatics** and **Ful
 
 ### 📊 GitHub Stats
 
-⭐️ *From **jwy-hm** with love*
+⭐️ *From **Ebo Zhao** with love*
